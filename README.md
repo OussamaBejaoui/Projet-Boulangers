@@ -22,8 +22,7 @@ Le projet est divisé en deux versions principales :
 ### Prérequis
 
 - **GCC** : Le compilateur C doit être installé sur votre machine.
-- **Git** : Pour cloner le dépôt (optionnel).
-- **GitHub CLI** : Pour gérer les issues et les pull requests (optionnel).
+- **Git** : Pour cloner le dépôt.
 
 ### Version de Base
 
